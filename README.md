@@ -1,6 +1,6 @@
 <body bgcolor="#cc6699">
 
-<p align="left">
+<p align="center">
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jkbelarmino&show_icons=true&locale=en" alt="jkbelarmino" /></p>
 <h3 align="left">Languages and Tools:</h3>
