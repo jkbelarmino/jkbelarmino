@@ -1,4 +1,4 @@
-<body background-color:#cc6699>
+<body bgcolor="#cc6699">
 
 <p align="left">
 </p>
