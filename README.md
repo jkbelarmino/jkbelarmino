@@ -25,10 +25,5 @@
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 <center>
-<!-- Default Statcounter code for Github https://github.com/jkbelarmino -->
-<noscript><div class="statcounter"><a title="site stats"
-href="https://statcounter.com/" target="_blank"><img class="statcounter"
-src="https://c.statcounter.com/13079315/0/84fb9bbc/0/" alt="site stats"
-referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
-<!-- End of Statcounter Code -->
+<a href="https://www.freecounterstat.com" title="counter widget"><img src="https://counter6.optistats.ovh/private/freecounterstat.php?c=jbwszw6yyjndchcjbyyd63g7tyttskwu" border="0" title="counter widget" alt="counter widget"></a>
 </center>
