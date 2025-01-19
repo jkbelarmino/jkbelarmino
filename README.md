@@ -24,7 +24,5 @@
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-<center>
-<a href="https://www.freecounterstat.com" title="counter widget"><img src="https://counter6.optistats.ovh/private/freecounterstat.php?c=jbwszw6yyjndchcjbyyd63g7tyttskwu" border="0" title="counter widget" alt="counter widget"></a>
-</center>
+
 
