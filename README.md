@@ -26,14 +26,6 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 <center>
 <!-- Default Statcounter code for Github https://github.com/jkbelarmino -->
-<script type="text/javascript">
-var sc_project=13079315; 
-var sc_invisible=0; 
-var sc_security="84fb9bbc"; 
-var scJsHost = "https://";
-document.write("<sc"+"ript type='text/javascript' src='" + scJsHost+
-"statcounter.com/counter/counter.js'></"+"script>");
-</script>
 <noscript><div class="statcounter"><a title="site stats"
 href="https://statcounter.com/" target="_blank"><img class="statcounter"
 src="https://c.statcounter.com/13079315/0/84fb9bbc/0/" alt="site stats"
