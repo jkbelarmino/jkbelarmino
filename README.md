@@ -9,3 +9,4 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=jkbelarmino&theme=dark&hide_border=true)&nbsp;&nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jkbelarmino&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+<meta name="google-site-verification" content="EsPfMf37NTsx90NC-V-REPhpJMgoX1iE4a0yWTss-FI" />
