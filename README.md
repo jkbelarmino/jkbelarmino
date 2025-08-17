@@ -85,7 +85,7 @@
 If you’d like to collaborate, contribute to the Filipino tech archive, Tech Museum, or just say hello. Click the button below to reach me.
 
 <p align="center">
-  <a href="https://form.jotform.com/your-form-id" target="_blank">
+  <a href="https://form.jotform.com/252281345586058" target="new_blank">
     <img src="https://img.shields.io/badge/Contact%20Form-F75C7E?style=for-the-badge&logo=jotform&logoColor=white" alt="Contact Form" />
   </a>
 </p>
