@@ -1,3 +1,9 @@
+<div align="center" style="background: linear-gradient(to right, #ff69b4, #ffc0cb); padding: 20px; border-radius: 10px;">
+  <h2 style="color: white;">Welcome to My GitHub</h2>
+  <br><br>
+</div>
+
+
 <!-- ✨ Typing SVG Header -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=600&lines=Curator+of+Filipino+Tech+History;Tech+Museum+Creator;IT+Specialist;Software+Quality+Analyst;Python+and+AutoIT+Automation;Website+Developer" alt="Typing SVG" />
