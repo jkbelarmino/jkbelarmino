@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=600&lines=Curator+of+Filipino+Tech+History;Tech+Museum+Creator;Freelance+IT+Specialist;Software+Quality+Analyst;Automation;Development;Business+Intelligence)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=600&lines=Curator+of+Filipino+Tech+History;Tech+Museum+Creator;IT+Specialist;Software+Quality+Analyst;Python+and+AutoIT+Automation;Website+Developer)
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jkbelarmino&show_icons=true&locale=en" alt="jkbelarmino" /></p>
 
