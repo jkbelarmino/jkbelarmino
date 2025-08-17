@@ -4,10 +4,11 @@
 </div>
 
 
-<!-- ✨ Typing SVG Header -->
+<!-- ✨ Typing SVG Header with Full Backspacing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F75C7E&width=700&center=true&vCenter=true&multiline=true&repeat=true&lines=Curator+of+Filipino+Tech+History;Tech+Museum+Creator;IT+Specialist;Software+Quality+Analyst;Python+and+AutoIT+Automation;Website+Developer&backspacing=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=500&color=F75C7E&width=700&center=true&vCenter=true&lines=Curator+of+Filipino+Tech+History;Tech+Museum+Creator;IT+Specialist;Software+Quality+Analyst;Python+and+AutoIT+Automation;Website+Developer" alt="Typing SVG" />
 </p>
+
 
 
 <!-- 📊 GitHub Stats -->
