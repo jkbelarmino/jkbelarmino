@@ -1,14 +1,14 @@
 <h1 align="center">Welcome to My GitHub</h1>
 
 <!-- ✨ Typing SVG Header -->
-<p align="center">
+<!---p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=500&color=F75C7E&width=700&center=true&vCenter=true&lines=Curator+of+Filipino+Tech+History;Tech+Museum+Creator;IT+Specialist;Python+and+AutoIT+Automation;Website+Developer" alt="Typing SVG" />
 </p>
 
 <!-- 📊 GitHub Stats -->
-<p align="center">
+<!--p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jkbelarmino&show_icons=true&locale=en&hide_border=true&bg_color=0d1117&title_color=F75C7E&text_color=F75C7E&icon_color=F75C7E" alt="GitHub Stats" />
-</p>
+</p-->
 
 <!-- 🔥 GitHub Streak Stats -->
 <p align="center">
@@ -16,9 +16,9 @@
 </p>
 
 <!-- 🧠 Top Languages -->
-<p align="center">
+<!---p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkbelarmino&hide_border=true&layout=compact&bg_color=0d1117&title_color=F75C7E&text_color=F75C7E" alt="Top Languages" />
-</p>
+</p--->
 
 <!-- 🛠️ Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
