@@ -1,36 +1,30 @@
-<div align="center" style="background: linear-gradient(to right, #ff69b4, #ffc0cb); padding: 20px; border-radius: 10px;">
-  <h2 style="color: white;">Welcome to My GitHub</h2>
-  <br><br>
-</div>
+<h1 align="center">Welcome to My GitHub</h1>
 
-
-<!-- ✨ Typing SVG Header with Full Backspacing -->
+<!-- ✨ Typing SVG Header -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=500&color=F75C7E&width=700&center=true&vCenter=true&lines=Curator+of+Filipino+Tech+History;Tech+Museum+Creator;IT+Specialist;Python+and+AutoIT+Automation;Website+Developer" alt="Typing SVG" />
 </p>
 
-
-
 <!-- 📊 GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jkbelarmino&show_icons=true&locale=en&hide_border=true&bg_color=00000000&title_color=F75C7E&text_color=F75C7E&icon_color=F75C7E" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jkbelarmino&show_icons=true&locale=en&hide_border=true&bg_color=0d1117&title_color=F75C7E&text_color=F75C7E&icon_color=F75C7E" alt="GitHub Stats" />
 </p>
 
 <!-- 🔥 GitHub Streak Stats -->
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=jkbelarmino&hide_border=true&background=00000000&ring=F75C7E&fire=F75C7E&currStreakNum=F75C7E&sideNums=F75C7E&currStreakLabel=F75C7E&sideLabels=F75C7E&dates=F75C7E" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=jkbelarmino&hide_border=true&background=0d1117&ring=F75C7E&fire=F75C7E&currStreakNum=F75C7E&sideNums=F75C7E&currStreakLabel=F75C7E&sideLabels=F75C7E&dates=F75C7E" alt="GitHub Streak" />
 </p>
 
 <!-- 🧠 Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkbelarmino&hide_border=true&layout=compact&bg_color=00000000&title_color=F75C7E&text_color=F75C7E" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkbelarmino&hide_border=true&layout=compact&bg_color=0d1117&title_color=F75C7E&text_color=F75C7E" alt="Top Languages" />
 </p>
 
 <!-- 🛠️ Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/>
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -60,7 +54,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
@@ -81,22 +75,19 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
   </a>
   <a href="https://zapier.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/>
   </a>
-  </p>
+</p>
 
-<p>## 📬 Contact Me
+## 📬 Contact Me
 
-If you’d like to collaborate, contribute to the Filipino tech archive, Tech Museum, or just say hello. Click the button below to reach me.
+If you’d like to collaborate, contribute to the Filipino tech archive, Tech Museum, or just say hello, click the button below to reach me.
 
 <p align="center">
-  <a href="https://form.jotform.com/252281345586058" target="new_blank">
+  <a href="https://form.jotform.com/252281345586058" target="_blank">
     <img src="https://img.shields.io/badge/Contact%20Form-F75C7E?style=for-the-badge&logo=jotform&logoColor=white" alt="Contact Form" />
   </a>
 </p>
-
-</p>
-
