@@ -1,27 +1,12 @@
 <h1 align="center">Welcome to My GitHub</h1>
 
-<!-- ✨ Typing SVG Header -->
-<!---p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=500&color=F75C7E&width=700&center=true&vCenter=true&lines=Curator+of+Filipino+Tech+History;Tech+Museum+Creator;IT+Specialist;Python+and+AutoIT+Automation;Website+Developer" alt="Typing SVG" />
-</p>
-
-<!-- 📊 GitHub Stats -->
-<!--p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jkbelarmino&show_icons=true&locale=en&hide_border=true&bg_color=0d1117&title_color=F75C7E&text_color=F75C7E&icon_color=F75C7E" alt="GitHub Stats" />
-</p-->
-
 <!-- 🔥 GitHub Streak Stats -->
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=jkbelarmino&hide_border=true&background=0d1117&ring=F75C7E&fire=F75C7E&currStreakNum=F75C7E&sideNums=F75C7E&currStreakLabel=F75C7E&sideLabels=F75C7E&dates=F75C7E" alt="GitHub Streak" />
 </p>
 
-<!-- 🧠 Top Languages -->
-<!---p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkbelarmino&hide_border=true&layout=compact&bg_color=0d1117&title_color=F75C7E&text_color=F75C7E" alt="Top Languages" />
-</p--->
-
 <!-- 🛠️ Languages and Tools -->
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 <p align="left">
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/>
@@ -82,12 +67,16 @@
   </a>
 </p>
 
-## 📬 Contact Me
+## 📬 Connect & Reach Out
 
-If you’d like to collaborate, contribute to the Filipino tech archive, Tech Museum, or just say hello, click the button below to reach me.
+If you’d like to collaborate, contribute to the Filipino tech archive, Tech Museum, or just say hello, feel free to drop a message or connect on LinkedIn.
 
 <p align="center">
   <a href="https://form.jotform.com/252281345586058" target="_blank">
     <img src="https://img.shields.io/badge/Contact%20Form-F75C7E?style=for-the-badge&logo=jotform&logoColor=white" alt="Contact Form" />
+  </a>
+  &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/jean-kathlyn-belarmino" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
