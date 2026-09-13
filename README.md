@@ -79,4 +79,8 @@ If you’d like to collaborate, contribute to the Filipino tech archive, Tech Mu
     <a href="https://www.linkedin.com/in/jean-kathlyn-belarmino" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://about.me/jeankathlynbelarmino" target="_blank">
+    <img src="https://img.shields.io/badge/About.me-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="About.me" />
+  </a>
 </p>
