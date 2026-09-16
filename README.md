@@ -1,5 +1,23 @@
 <h1 align="center">Welcome to My GitHub</h1>
 
+## 🎉 Just for Fun
+
+<p align="center">
+  <a href="https://jkbelarmino.github.io/Filipino_Tech_Archive/" target="_blank">
+    <img src="https://img.shields.io/badge/Filipino%20Tech%20Archive-%F0%9F%8E%89-lightgrey?style=for-the-badge" alt="Filipino Tech Archive Fun" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://jkbelarmino.github.io/techmuseum/" target="_blank">
+    <img src="https://img.shields.io/badge/Tech%20Museum-%F0%9F%9A%80-lightblue?style=for-the-badge" alt="Tech Museum Fun" />
+  </a>
+</p>
+
+<p align="center">
+  These projects were created <em>just for fun</em> — experiments, archives, and random ideas that somehow ended up online.<br/>
+  Because sometimes coding is about curiosity, not deadlines. 😅
+</p>
+
+
 <!-- 🔥 GitHub Streak Stats -->
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=jkbelarmino&hide_border=true&background=0d1117&ring=F75C7E&fire=F75C7E&currStreakNum=F75C7E&sideNums=F75C7E&currStreakLabel=F75C7E&sideLabels=F75C7E&dates=F75C7E" alt="GitHub Streak" />
