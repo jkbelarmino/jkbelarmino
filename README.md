@@ -1,5 +1,15 @@
 <h1 align="center">Welcome to My GitHub</h1>
 
+<p align="center">
+  <a href="https://jkbelarmino.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Official%20Profile%20%26%20Links%20Hub-1F3C88?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Official Profile & Links Hub" />
+  </a>
+</p>
+
+<p align="center">
+  🌐 <strong><a href="https://jkbelarmino.github.io/" target="_blank">Visit my Official Central Hub & Portfolio</a></strong>
+</p>
+
 ## 🎉 Just for Fun
 
 <p align="center">
@@ -94,7 +104,7 @@ If you’d like to collaborate, contribute to the Filipino tech archive, Tech Mu
     <img src="https://img.shields.io/badge/Contact%20Form-F75C7E?style=for-the-badge&logo=jotform&logoColor=white" alt="Contact Form" />
   </a>
   &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/jean-kathlyn-belarmino" target="_blank">
+  <a href="https://www.linkedin.com/in/jean-kathlyn-belarmino" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
