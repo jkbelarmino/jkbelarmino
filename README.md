@@ -95,19 +95,6 @@
   </a>
 </p>
 
-
-## 🏛️ Featured Memorial & Legal Archive
-
-<p align="center">
-  <a href="https://jkbelarmino.github.io/Attorney-Byron-Viray-Belarmino/" target="_blank">
-    <img src="https://img.shields.io/badge/Atty.%20Byron%20V.%20Belarmino-Legal%20Archive%20%26%20Memorial-1F3C88?style=for-the-badge" alt="Atty. Byron V. Belarmino Legal Archive & Memorial" />
-  </a>
-</p>
-
-<p align="center">
-  ⚖️ <strong><a href="https://jkbelarmino.github.io/Attorney-Byron-Viray-Belarmino/" target="_blank">Atty. Byron V. Belarmino | Legal Reference Archive & Memorial Page</a></strong><br/>
-
-</p>
 ## 📬 Connect & Reach Out
 
 If you’d like to collaborate, contribute to the Filipino tech archive, Tech Museum, or just say hello, feel free to drop a message or connect on LinkedIn.
@@ -124,4 +111,19 @@ If you’d like to collaborate, contribute to the Filipino tech archive, Tech Mu
   <a href="https://about.me/jeankathlynbelarmino" target="_blank">
     <img src="https://img.shields.io/badge/About.me-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="About.me" />
   </a>
+</p>
+
+<br><br>
+
+## 🏛️ Featured Memorial & Legal Archive
+
+<p align="center">
+  <a href="https://jkbelarmino.github.io/Attorney-Byron-Viray-Belarmino/" target="_blank">
+    <img src="https://img.shields.io/badge/Atty.%20Byron%20V.%20Belarmino-Legal%20Archive%20%26%20Memorial-1F3C88?style=for-the-badge" alt="Atty. Byron V. Belarmino Legal Archive & Memorial" />
+  </a>
+</p>
+
+<p align="center">
+  ⚖️ <strong><a href="https://jkbelarmino.github.io/Attorney-Byron-Viray-Belarmino/" target="_blank">Atty. Byron V. Belarmino | Legal Reference Archive & Memorial Page</a></strong><br/>
+
 </p>
