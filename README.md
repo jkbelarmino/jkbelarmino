@@ -10,6 +10,10 @@
   🌐 <strong><a href="https://jkbelarmino.github.io/" target="_blank">Visit my Official Central Hub & Portfolio</a></strong>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=jkbelarmino&hide_border=true&background=0d1117&ring=F75C7E&fire=F75C7E&currStreakNum=F75C7E&sideNums=F75C7E&currStreakLabel=F75C7E&sideLabels=F75C7E&dates=F75C7E" alt="GitHub Streak" />
+</p>
+
 ## 🛠️ Languages and Tools
 
 <p align="left">
@@ -70,10 +74,6 @@
   <a href="https://zapier.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jkbelarmino&hide_border=true&background=0d1117&ring=F75C7E&fire=F75C7E&currStreakNum=F75C7E&sideNums=F75C7E&currStreakLabel=F75C7E&sideLabels=F75C7E&dates=F75C7E" alt="GitHub Streak" />
 </p>
 
 
