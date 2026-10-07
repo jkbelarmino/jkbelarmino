@@ -76,6 +76,8 @@
   <img src="https://streak-stats.demolab.com/?user=jkbelarmino&hide_border=true&background=0d1117&ring=F75C7E&fire=F75C7E&currStreakNum=F75C7E&sideNums=F75C7E&currStreakLabel=F75C7E&sideLabels=F75C7E&dates=F75C7E" alt="GitHub Streak" />
 </p>
 
+
+
 ## 🎉 Just for Fun
 
 <p align="center">
@@ -109,6 +111,7 @@
 <p align="center">
   <em>Created for educational purposes to help the public understand academic research on interpersonal dynamics — without clinical diagnosis or personal labeling.</em>
 </p>
+
 
 ## 📬 Connect & Reach Out
 
