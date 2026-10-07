@@ -10,23 +10,6 @@
   🌐 <strong><a href="https://jkbelarmino.github.io/" target="_blank">Visit my Official Central Hub & Portfolio</a></strong>
 </p>
 
-## 🧠 Psychology & Public Research
-
-<p align="center">
-  <a href="https://jkbelarmino.github.io/psychology-personality-dynamics-research-framework/">
-    <img src="https://img.shields.io/badge/Personality%20Dynamics%20Research%20Framework-Psychology%20%26%20Public%20Research-6A5ACD?style=for-the-badge" alt="Personality Dynamics Research Framework — Psychology & Public Research" />
-  </a>
-</p>
-
-<p align="center">
-  🧠 <strong><a href="https://jkbelarmino.github.io/psychology-personality-dynamics-research-framework/">Psychology: Personality Dynamics Research Framework</a></strong><br/>
-  An educational, non-diagnostic literature synthesis translating peer-reviewed personality and interpersonal research for everyday readers.
-</p>
-
-<p align="center">
-  <em>Created for educational purposes to help the public understand academic research on interpersonal dynamics — without clinical diagnosis or personal labeling.</em>
-</p>
-
 ## 🎉 Just for Fun
 
 <p align="center">
@@ -42,6 +25,23 @@
 <p align="center">
   These projects were created <em>just for fun</em> — experiments, archives, and random ideas that somehow ended up online.<br/>
   Because sometimes coding is about curiosity, not deadlines. 😅
+</p>
+
+## 🧠 Psychology & Public Research
+
+<p align="center">
+  <a href="https://jkbelarmino.github.io/psychology-personality-dynamics-research-framework/">
+    <img src="https://img.shields.io/badge/Personality%20Dynamics%20Research%20Framework-Psychology%20%26%20Public%20Research-6A5ACD?style=for-the-badge" alt="Personality Dynamics Research Framework — Psychology & Public Research" />
+  </a>
+</p>
+
+<p align="center">
+  🧠 <strong><a href="https://jkbelarmino.github.io/psychology-personality-dynamics-research-framework/">Psychology: Personality Dynamics Research Framework</a></strong><br/>
+  An educational, non-diagnostic literature synthesis translating peer-reviewed personality and interpersonal research for everyday readers.
+</p>
+
+<p align="center">
+  <em>Created for educational purposes to help the public understand academic research on interpersonal dynamics — without clinical diagnosis or personal labeling.</em>
 </p>
 
 
