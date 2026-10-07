@@ -9,6 +9,7 @@
 <p align="center">
   🌐 <strong><a href="https://jkbelarmino.github.io/" target="_blank">Visit my Official Central Hub & Portfolio</a></strong>
 </p>
+
 ## 🧠 Psychology & Public Research
 
 <p align="center">
