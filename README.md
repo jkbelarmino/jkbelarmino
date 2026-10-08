@@ -109,7 +109,7 @@
 </p>
 
 <p align="center">
-  <em>Created for educational purposes to help the public understand academic research on interpersonal dynamics — without clinical diagnosis or personal labeling.</em>
+  <em>Created to help the public understand researched behavioral dynamics and patterns, focusing on observable conduct rather than clinical diagnosis or personal labeling.</em>
 </p>
 
 
