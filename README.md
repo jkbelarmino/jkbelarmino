@@ -1,13 +1,15 @@
+# Welcome to My GitHub
+
 <h1 align="center">Welcome to My GitHub</h1>
 
 <p align="center">
-  <a href="https://jkbelarmino.github.io/" target="_blank">
+  <a href="https://jkbelarmino.github.io/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Official%20Profile%20%26%20Links%20Hub-1F3C88?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Official Profile & Links Hub" />
   </a>
 </p>
 
 <p align="center">
-  🌐 <strong><a href="https://jkbelarmino.github.io/" target="_blank">Visit my Official Central Hub & Portfolio</a></strong>
+  🌐 <strong><a href="https://jkbelarmino.github.io/" target="_blank" rel="noreferrer">Visit my Official Central Hub & Portfolio</a></strong>
 </p>
 
 <p align="center">
@@ -19,87 +21,85 @@
 <p align="center">
   <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-</a>
+  </a>
 
-<a href="https://en.cppreference.com/w/cpp" target="_blank" rel="noreferrer">
+  <a href="https://en.cppreference.com/w/cpp" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</a>
+  </a>
 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-</a>
+  </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
+  </a>
 
-<a href="https://www.php.net/" target="_blank" rel="noreferrer">
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-</a>
+  </a>
 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
+  </a>
 
-<a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
+  <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/>
-</a>
+  </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a>
+  </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>
+  </a>
 
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dot-net" width="40" height="40"/>
-</a>
+  </a>
 
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-</a>
+  </a>
 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="microsoftsqlserver" width="40" height="40"/>
-</a>
+  </a>
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
+  </a>
 
-<a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer">
+  <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-</a>
+  </a>
 
-<a href="https://www.autoitscript.com/site/" target="_blank" rel="noreferrer">
+  <a href="https://www.autoitscript.com/site/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/jkbelarmino/svg/main/autoit.svg" alt="autoit" width="40" height="40"/>
-</a>
+  </a>
 
-<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
-</a>
+  </a>
 
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/>
-</a>
+  </a>
 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-</a>
+  </a>
 </p>
-
-
 
 ## 🎉 Just for Fun
 
 <p align="center">
-  <a href="https://jkbelarmino.github.io/Filipino_Tech_Archive/" target="_blank">
+  <a href="https://jkbelarmino.github.io/Filipino_Tech_Archive/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Filipino%20Tech%20Archive-%F0%9F%8E%89-lightgrey?style=for-the-badge" alt="Filipino Tech Archive Fun" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://jkbelarmino.github.io/techmuseum/" target="_blank">
+  <a href="https://jkbelarmino.github.io/techmuseum/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Tech%20Museum-%F0%9F%9A%80-lightblue?style=for-the-badge" alt="Tech Museum Fun" />
   </a>
 </p>
@@ -112,13 +112,13 @@
 ## 🧠 Psychology & Public Research
 
 <p align="center">
-  <a href="https://jkbelarmino.github.io/psychology-personality-dynamics-research-framework/">
+  <a href="https://jkbelarmino.github.io/psychology-personality-dynamics-research-framework/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Personality%20Dynamics%20Research%20Framework-Psychology%20%26%20Public%20Research-6A5ACD?style=for-the-badge" alt="Personality Dynamics Research Framework — Psychology & Public Research" />
   </a>
 </p>
 
 <p align="center">
-  🧠 <strong><a href="https://jkbelarmino.github.io/psychology-personality-dynamics-research-framework/">Psychology: Personality Dynamics Research Framework</a></strong><br/>
+  🧠 <strong><a href="https://jkbelarmino.github.io/psychology-personality-dynamics-research-framework/" target="_blank" rel="noreferrer">Psychology: Personality Dynamics Research Framework</a></strong><br/>
   An educational, non-diagnostic literature synthesis translating peer-reviewed personality and interpersonal research for everyday readers.
 </p>
 
@@ -126,21 +126,20 @@
   <em>Created to help the public understand researched behavioral dynamics and patterns, focusing on observable conduct rather than clinical diagnosis or personal labeling.</em>
 </p>
 
-
 ## 📬 Connect & Reach Out
 
 If you’d like to collaborate, discuss a research or archive project, or just say hello, feel free to drop a message or connect on LinkedIn.
 
 <p align="center">
-  <a href="https://form.jotform.com/252281345586058" target="_blank">
+  <a href="https://form.jotform.com/252281345586058" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Contact%20Form-F75C7E?style=for-the-badge&logo=jotform&logoColor=white" alt="Contact Form" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/jean-kathlyn-belarmino" target="_blank">
+  <a href="https://www.linkedin.com/in/jean-kathlyn-belarmino" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://about.me/jeankathlynbelarmino" target="_blank">
+  <a href="https://about.me/jeankathlynbelarmino" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/About.me-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="About.me" />
   </a>
 </p>
@@ -150,11 +149,11 @@ If you’d like to collaborate, discuss a research or archive project, or just s
 ## 🏛️ Featured Memorial & Legal Archive
 
 <p align="center">
-  <a href="https://jkbelarmino.github.io/Attorney-Byron-Viray-Belarmino/" target="_blank">
+  <a href="https://jkbelarmino.github.io/Attorney-Byron-Viray-Belarmino/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Atty.%20Byron%20V.%20Belarmino-Legal%20Archive%20%26%20Memorial-1F3C88?style=for-the-badge" alt="Atty. Byron V. Belarmino Legal Archive & Memorial" />
   </a>
 </p>
 
 <p align="center">
-  ⚖️ <strong><a href="https://jkbelarmino.github.io/Attorney-Byron-Viray-Belarmino/" target="_blank">Atty. Byron V. Belarmino | Legal Reference Archive & Memorial Page</a></strong><br/>
+  ⚖️ <strong><a href="https://jkbelarmino.github.io/Attorney-Byron-Viray-Belarmino/" target="_blank" rel="noreferrer">Atty. Byron V. Belarmino | Legal Reference Archive & Memorial Page</a></strong><br/>
 </p>
