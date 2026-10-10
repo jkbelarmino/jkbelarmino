@@ -16,7 +16,7 @@
 
 ## 🛠️ Languages and Tools
 
-<p align="left">
+<p align="center">
   <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 </a>
@@ -74,7 +74,7 @@
 </a>
 
 <a href="https://www.autoitscript.com/site/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/autoit/autoit-original.svg" alt="autoit" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/jkbelarmino/svg/main/autoit.svg" alt="autoit" width="40" height="40"/>
 </a>
 
 <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
