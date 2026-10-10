@@ -1,5 +1,3 @@
-# Welcome to My GitHub
-
 <h1 align="center">Welcome to My GitHub</h1>
 
 <p align="center">
