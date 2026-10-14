@@ -93,6 +93,15 @@
 ## 🎉 Just for Fun
 
 <p align="center">
+  <a href="https://jkbelarmino.github.io/HackTheMultiverse/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/HackTheMultiverse-Retro%20Cyber--Cinema-39FF14?style=for-the-badge&logo=html5&logoColor=white" alt="HackTheMultiverse — Retro Cyber-Cinema Parody Mashup" />
+  </a>
+</p>
+
+<p align="center">
+  🌐 <strong><a href="https://jkbelarmino.github.io/HackTheMultiverse/" target="_blank" rel="noreferrer">HackTheMultiverse</a></strong><br/>   An unofficial, non-commercial retro cyber-cinema parody mashup inspired by 1990s Hollywood hacking interfaces. </p>
+
+<p align="center">
   <a href="https://jkbelarmino.github.io/Filipino_Tech_Archive/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Filipino%20Tech%20Archive-%F0%9F%8E%89-lightgrey?style=for-the-badge" alt="Filipino Tech Archive Fun" />
   </a>
