@@ -76,17 +76,15 @@
 ## 🎉 Just for Fun
 
 <p align="center">
+  These projects were created <em>just for fun</em> — experiments, archives, and random ideas that somehow ended up online.<br/>
+  Because sometimes coding is about curiosity, not deadlines. 😅
+</p>
+
+<p align="center">
   <a href="https://jkbelarmino.github.io/HackTheMultiverse/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/HACKTHEMULTIVERSE-Retro%20Cyber--Cinema-237C78?style=for-the-badge&logo=html5&logoColor=white" alt="HackTheMultiverse — Retro Cyber-Cinema Parody Mashup" />
   </a>
-</p>
-
-<p align="center">
-<strong><a href="https://jkbelarmino.github.io/HackTheMultiverse/" target="_blank" rel="noopener noreferrer">HackTheMultiverse</a></strong><br/>
-  An unofficial, non-commercial retro cyber-cinema parody mashup inspired by 1990s Hollywood hacking interfaces.
-</p>
-
-<p align="center">
+  &nbsp;&nbsp;
   <a href="https://jkbelarmino.github.io/Filipino_Tech_Archive/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Filipino%20Tech%20Archive-%F0%9F%8E%89-lightgrey?style=for-the-badge" alt="Filipino Tech Archive Fun" />
   </a>
@@ -94,11 +92,6 @@
   <a href="https://jkbelarmino.github.io/techmuseum/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Tech%20Museum-%F0%9F%9A%80-lightblue?style=for-the-badge" alt="Tech Museum Fun" />
   </a>
-</p>
-
-<p align="center">
-  These projects were created <em>just for fun</em> — experiments, archives, and random ideas that somehow ended up online.<br/>
-  Because sometimes coding is about curiosity, not deadlines. 😅
 </p>
 
 ## 🧠 Psychology & Public Research
