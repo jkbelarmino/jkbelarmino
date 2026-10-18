@@ -107,7 +107,7 @@
 
 ## 📬 Connect & Reach Out
 
-If you’d like to collaborate, discuss a research or archive project, or just say hello, feel free to drop a message or connect on LinkedIn.
+For inquiries or collaboration, feel free to reach out.
 
 <p align="center">
   <a href="https://form.jotform.com/252281345586058" target="_blank" rel="noopener noreferrer">
